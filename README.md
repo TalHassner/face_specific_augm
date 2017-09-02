@@ -5,6 +5,9 @@ This page contains an improved version of the face renderer from the paper _I. M
 
 This release is part of an on-going face recognition project [4]. Please, check [this project page](http://www.openu.ac.il/home/hassner/projects/augmented_faces/) for updates and more data.
 
+** New! ** Please see our [followup project](https://github.com/fengju514/Face-Pose-Net) for fast and accurate, deep face pose estimation and face rendering. Its Python code bundles together 6DoF 3D head pose estimation with extremely fast 3D face alignment (e.g., frontalization). 
+
+
 ![Teaser](http://www-bcf.usc.edu/~iacopoma/img/collect2.png)
 
 
